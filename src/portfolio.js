@@ -12,7 +12,7 @@ const greeting = {
   username: 'Harsh Shah',
   title: "Hi all, I'm Harsh Shah",
   subTitle: emoji(
-    'A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks.'
+    'A passionate Software Engineer 🚀 having an experience of building Web and Mobile applications with Django / Laravel / Nodejs and some other cool libraries and frameworks.'
   ),
   resumeLink:
     'https://s3.ap-south-1.amazonaws.com/harshshah8996.github.io/CV.pdf',
