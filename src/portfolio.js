@@ -25,6 +25,7 @@ const socialMediaLinks = {
   github: 'https://github.com/harshshah8996',
   linkedin: 'https://www.linkedin.com/in/harshshah8996/',
   gmail: 'harshshah8996@gmail.com',
+  phone: '9099499731',
   // facebook: 'https://www.facebook.com/harshshah8996',
   medium: 'https://medium.com/@harshshah8996',
   // stackoverflow: 'https://stackoverflow.com',
